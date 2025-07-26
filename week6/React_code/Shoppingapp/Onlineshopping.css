@@ -1,0 +1,29 @@
+.shopping-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.shopping-container h1 {
+  color: green;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 20%;
+  border: 2px solid gray;
+}
+
+th,
+td {
+  border: 1px solid lightgray;
+  padding: 15px;
+  color: #006400;
+  font-family: Verdana;
+}
+
+th {
+  background-color: #e6ffe6;
+  font-weight: bold;
+}
